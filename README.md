@@ -11,3 +11,11 @@ The HOLOPHONIX processor brings together several different spatialization techni
 The processor is structured around a powerful multichannel algorithmic reverberation engine. It allows users to combine several different artificial reverberations, homogeneously combining sound materials and fine-tuning the perceived sound depth. Reflection calculators allow the user to create several virtual sound spaces.
 
 The system allows the user to select and control a series of highly advanced 2D and 3D sound algorithms designed at IRCAM-based STMS Lab, located in Paris, and supported by CNRS (National Center for Scientific Research), Sorbonne University, French Ministry of Culture and IRCAM.
+
+For this Holophonix coding evaluation the goal was to create a rotary knob where the current value of this knob should be shown in the "Rotary knob value" field on the main page, every time the knob is moved this value should change.
+
+No extra dependencies were allowed, only the use of typescript, react and CSS.
+
+The use of Zustand was mandatory.
+
+The final result was the same as the image provided by the company plus some extras, for example the volume knobs turn on when you move the button.
