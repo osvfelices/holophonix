@@ -21,5 +21,5 @@ The use of Zustand was mandatory.
 The final result was the same as the image provided by the company plus some extras, for example the volume knobs turn on when you move the button.
 
 <p align="center">
-<img width="723" alt="Rotary Knob" src="https://user-images.githubusercontent.com/93431645/208459593-61da369e-b96a-4dbe-9e7a-83bd3c970fa4.png">
+<img width="750" alt="Rotary Knob" src="https://user-images.githubusercontent.com/93431645/208463382-31705533-08fb-4e53-bf9d-bd78b2a1b2d9.png">
 </p>
