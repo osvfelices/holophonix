@@ -1,4 +1,4 @@
-# Holophonix
+# Holophonix Codding Asigment.
 
 ## What is Holophonix?
 
@@ -19,3 +19,7 @@ No extra dependencies were allowed, only the use of typescript, react and CSS.
 The use of Zustand was mandatory.
 
 The final result was the same as the image provided by the company plus some extras, for example the volume knobs turn on when you move the button.
+
+<p align="center">
+<img width="723" alt="Captura de Pantalla 2022-12-19 a las 16 12 58" src="https://user-images.githubusercontent.com/93431645/208459593-61da369e-b96a-4dbe-9e7a-83bd3c970fa4.png">
+</p>
